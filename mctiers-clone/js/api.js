@@ -9,11 +9,11 @@ const BladeTiersAPI = (() => {
 
   // Tier points lookup
   const TIER_POINTS = {
-    'HT1': 60, 'LT1': 50,
-    'HT2': 40, 'LT2': 30,
-    'HT3': 20, 'LT3': 15,
-    'HT4': 10, 'LT4': 8,
-    'HT5': 5,  'LT5': 3
+    'HT1': 60, 'LT1': 45,
+    'HT2': 30, 'LT2': 20,
+    'HT3': 10, 'LT3': 6,
+    'HT4': 4, 'LT4': 3,
+    'HT5': 2,  'LT5': 1
   };
 
   // Gamemodes metadata
